@@ -68,3 +68,14 @@ La aplicación usa las siguientes tecnologías.
 
 - **Cargar más datos**: La aplicación carga datos de manera paginada a medida que el usuario se desplaza por la lista.
 - **Guardar personajes**: Los usuarios pueden guardar personajes en una base de datos local.
+
+## Screenshots
+<img src="/app/src/main/res/drawable/ScreenShotsAGM/Screenshot_20240909_011414_TestAGM_1.jpg" alt="drawing" width="250"/>
+<img src="/app/src/main/res/drawable/ScreenShotsAGM/Screenshot_20240909_011429_TestAGM_2.jpg" alt="drawing" width="250"/>
+<img src="/app/src/main/res/drawable/ScreenShotsAGM/Screenshot_20240909_011439_TestAGM_3.jpg" alt="drawing" width="250"/>
+<img src="/app/src/main/res/drawable/ScreenShotsAGM/Screenshot_20240909_011445_TestAGM_4.jpg" alt="drawing" width="250"/>
+<img src="/app/src/main/res/drawable/ScreenShotsAGM/Screenshot_20240909_011351_TestAGM_5.jpg" alt="drawing" width="250"/>
+<img src="/app/src/main/res/drawable/ScreenShotsAGM/Screenshot_20240909_011357_TestAGM_6.jpg" alt="drawing" width="250"/>
+<img src="/app/src/main/res/drawable/ScreenShotsAGM/Screenshot_20240909_011500_TestAGM_7.jpg" alt="drawing" width="250"/>
+<img src="/app/src/main/res/drawable/ScreenShotsAGM/Screenshot_20240909_011818_TestAGM_8.jpg" alt="drawing" width="250"/>
+<img src="/app/src/main/res/drawable/ScreenShotsAGM/Screenshot_20240909_011753_TestAGM_9.jpg" alt="drawing" width="250"/>
