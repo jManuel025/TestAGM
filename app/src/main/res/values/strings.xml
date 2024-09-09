@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestAGM</string>
+    <string name="common_empty_results">Actualmente no hay información para mostrar. Por favor, vuelve más tarde</string>
+    <string name="common_no_characters_saved">Aún no has guardado personajes</string>
+    <string name="common_error_title">Algo salió mal</string>
+    <string name="common_loading_title">No hay datos disponibles</string>
+    <string name="button_retry">Reintentar</string>
+    <string name="common_title_saved">Guardados</string>
+</resources>
